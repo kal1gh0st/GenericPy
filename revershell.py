@@ -1,3 +1,6 @@
+#HELLO GUYS
+#Author: kal1gh0st FF 
+
 import socket
 import threading
 import os#1
