@@ -1,7 +1,6 @@
-#Magic Beans VFX Ltd
+#Magic Beans VFX Ltd and Kal1gh0st cop
 #autoCrop_MB v3.7
-#@2019 Jack Hughes. All rights reserved.
-#jack_hughes@mac.com
+#2020/01 f.fedele@produceict.it
 
 #Add the following to your menu.py
 ##import autoCrop_MB
