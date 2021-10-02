@@ -27,5 +27,4 @@ def request(flow):
 #
 #             iptables -t nat -A PREROUTING -p tcp --destination-port 80 -j REDIRECT --to-port 8080
 #
-#            So now when a client clicks on a pdf download, the download will get redirected and it will prompt the client to download our evil zip file. When the client unzips and opens the PDF, our evil file will get executed. (This evil file could be a backdoor,
-#            a key logger, a credential harvester, etc.)
+#          
