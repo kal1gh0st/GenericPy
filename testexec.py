@@ -26,3 +26,4 @@ def tcp_message(flow: tcp.TCPFlow):
             "server" if message.from_client else "client",
             strutils.bytes_to_escaped_str(message.content))
     )
+--------------------------------------------------------------------------
